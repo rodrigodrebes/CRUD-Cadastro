@@ -1,5 +1,5 @@
-# DesafioCadastro
-Desafio de construção de um programa de cadastros.
+# Cadastro de Pessoas em Python
+Desafio de construção de um programa de cadastros para aplicação em programa de Estágio DELL.
 
 Para testar a funcionalidade do programa, abra o arquivo em um editor/leitor de código-fonte (como o VScode) e rode o arquivo “ProgramaCadastro.py”. 
 
